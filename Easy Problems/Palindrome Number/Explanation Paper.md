@@ -1,4 +1,4 @@
-# Palindrome Number
+# <center>Palindrome Number.</center>
 
 > A palindrome number is a number that reads the same **forward and backward**. 
 > This term can also be used for words (try saying *racecar* backwards, I dare you)
@@ -49,6 +49,7 @@ print(is_palindrome(number))
 
 ## Actual Fun Fact
 > This exact idea works in any mathematical base.
->> You can do it in binary, base 10, base 12, base \sqrt{3}, base e^(i\Pi)^ and any other imaginable base
+>> You can do it in binary, base 10, base 12, base √3, base e^iπ and any other imaginable base.
+
 > If you ***somehow*** don't know what a base is I'd advise you to look here: [Mathematical Bases](https://simple.wikipedia.org/wiki/Base_(mathematics) "You ACTUALLY don't know what a base is??")
 
