@@ -10,9 +10,9 @@
 
 ---
 
-> If someone actually looks over these I'd be pretty flattered but I'd asume you're a bot because what real human looks at my work and says *"Yeah, he knows code"*?
+ If someone actually looks over these I'd be pretty flattered but I'd asume you're a bot because what real human looks at my work and says *"Yeah, he knows code"*?
 
-> I will try and explain my thought process in my problems but don't explain Shakespeare level literature since I'm highly *iira- itile-* ***Iliiterate***. Something like this:
+ I will try and explain my thought process in my problems but don't explain Shakespeare level literature since I'm highly *iira- itile-* ***Iliiterate***. Something like this:
 
 ```python
 print("Konnichiwa za wardo!")
@@ -24,4 +24,4 @@ print("bonjur madame")
 
 ---
 
-> If you actually read all of this I'm highly doubting your level of usefullness in this world and I think you might need to consider getting a job.
+## If you actually read all of this I'm highly doubting your level of usefullness in this world and I think you might need to consider getting a job.
